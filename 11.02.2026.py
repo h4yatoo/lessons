@@ -80,5 +80,5 @@
 #     return s
 # @log_action
 # def get_average_sale():
-#     with open('transactions.txt', encoding='utf-8') as f:
+#     with open('transactions.txt', encoding='utf-8') as f:   #я запутался
 
